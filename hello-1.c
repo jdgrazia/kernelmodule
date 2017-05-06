@@ -9,5 +9,5 @@ int init_module(void){
 
 int cleanup_module(void){
 
-	printk(KERN_INFO "I'm out");
+	printk(KERN_INFO "I'm out bitches");
 }
